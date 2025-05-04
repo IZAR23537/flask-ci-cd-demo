@@ -1,14 +1,19 @@
 # Flask CI/CD Demo
 
-This is a simple Flask app to demonstrate a CI/CD pipeline using GitHub Actions and Docker.
+This project demonstrates a complete DevOps workflow for a simple Python Flask web application, showcasing:
 
-## Features
+- 🐍 **Flask** web app structure
+- 🐳 **Docker** containerization
+- ⚙️ **GitHub Actions** for automated CI/CD
+- ✅ **Unit testing** with `unittest`
+- 🛠️ A clean and modular repo structure ready for extension
 
-- Flask web app
-- Unit testing with `unittest`
-- Dockerized deployment
-- GitHub Actions CI/CD workflow
+The goal is to provide a **minimal yet complete example** of how to:
+1. Build and test a Python app in CI
+2. Dockerize it for deployment
+3. Prepare a codebase for continuous delivery
 
+---
 ## Run locally
 
 ```bash
